@@ -7,7 +7,7 @@ A simple API to add to your datapack.
 
 ​	When needing to know the TPS, execute `/function tps:get_tps`
 
-​	When finished, `working` in the scoreboard `getTPS` will be set to 0, and the result will be set to `tps`
+​	When finished, `working` in the objective `getTPS` will be set to `0`, and the result will be set to `tps`
 
 ​	
 

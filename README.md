@@ -21,4 +21,10 @@ A simple API to add to your datapack.
 
 ​	Making animations / dialogs? They will no longer have to slow down when the server is laggy.
 
+
+
+**Credits?**
+
+​	No crediting is *required*, but would be nice if you linked my GitHub profile somewhere (even as comment in your code).
+
 <img src="screenshots/scoreboard.png" alt="getTPS Scoreboard" style="zoom:25%;" />

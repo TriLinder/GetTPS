@@ -7,7 +7,7 @@ A simple API to add to your datapack.
 
 ​	When needing to know the TPS, execute `/function tps:get_tps`
 
-​	When finished, "working" in the scoreboard "getTPS" will be set to 0, and the result will be set to "tps"
+​	When finished, `working` in the scoreboard `getTPS` will be set to 0, and the result will be set to `tps`
 
 ​	
 
@@ -28,3 +28,4 @@ A simple API to add to your datapack.
 ​	No crediting is *required*, but would be nice if you linked my GitHub profile somewhere (even as comment in your code).
 
 <img src="screenshots/scoreboard.png" alt="getTPS Scoreboard" style="zoom:25%;" />
+
